@@ -1,8 +1,8 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App(): ReactElement {
+function App(): JSX.Element {
   return (
     <div className="App">
       <header className="App-header">
